@@ -96,7 +96,9 @@ Welcome all of you future star candidates who want to strive to attend the acade
 - [Mirzaldi Pasha](https://github.com/ashx360) [ASH]
   > As an academician.  
   > Website link -> [ashx360.vercel.app](https://ashx360.vercel.app)
-
+- [Stefanus Indra Prasetya](https://github.com/Stefinpras) [TEF]
+  > As an academician.  
+  > Website link -> (https://stefinpras.vercel.app/)
 
 <div align="center">
   <p style="font-size: 20px; font-weight: 600; text-align: center;">Academy 2025 <br> Building Skills for Tomorrow's Tech Leaders</p>
